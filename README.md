@@ -14,4 +14,6 @@ Only the admin with the registered RFID card able to unlock the Lockers. On the 
 4.	Admin Override Unlocked
 Other than using RFID, Admin also have another option to unlock the lockers. Which by using  a 2 range number of 2 variable resistor. So, in order for admin to unlock the lockers, they have to adjust the value of each resistor to its range, which only admin knows the value of it. After both value are correctly adjusted, Then, admin has to enter the keypad no 9 to unlock the lockers. Once unlocked the LCD Screen will show “Override Unlocked”. The RGB LED will turn to green indicates that the Lockers was unlocked.  
 
-# Demostration Video
+## Demostration Video
+https://user-images.githubusercontent.com/87352340/189520667-437becb1-b41f-42f1-a49a-38932105a60b.mp4
+
